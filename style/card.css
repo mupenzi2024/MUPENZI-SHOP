@@ -1,0 +1,273 @@
+.navbar{
+    margin-top: -1%;
+    height: 80px;
+    width: 100%; 
+    position: fixed;
+   background-color: aliceblue;
+}
+.hhh button{
+    margin-top: 1%;
+    height: 67px;
+    width: 13%; 
+    position: fixed;
+   background-color: aliceblue;
+   margin-left: 65%;  
+   text-align: center;
+   border-radius: 15px;
+}
+.hhh button:hover{
+    background-image: url(images/bg10.jpeg);   
+}
+.navbar .table{
+    position: fixed;
+    height: 80px;
+    width: 20%;
+    margin-left: 84%;
+    margin-top: 1%; 
+}
+.logo{
+    position: fixed;
+    height: 80px;
+    width: 40%;
+    float: left;
+}
+.intro{
+    -webkit-text-fill-color: rgb(141, 137, 132);
+    text-align: center;
+    height: 400px;
+    width: 90%;
+
+    margin-left: 5%;
+    display: inline-block; 
+    border-radius: 12px; 
+}
+.dropdown{
+    height: 45px;
+    width: 130px;
+    background-color: aliceblue;
+    position: relative;
+    display: inline-block;
+    border-radius: 12px;
+    cursor: pointer;
+  }
+  .dropdown4{
+    height: 45px;
+    width: 130px;
+    background-color: aliceblue;
+    position: relative;
+    display: inline-block;
+    border-radius: 12px;
+    cursor: pointer;
+  }
+  .dropdown4-content {
+    display: none;
+    position: absolute;
+  width: 200px;
+  height: 400px;
+   
+  }
+  .dropdown4 .dropdown4-content p:hover{
+    background-color: antiquewhite;
+  }
+
+  .dropdown4:hover .dropdown4-content{
+    background-color: white;
+    display: block;
+  }
+
+
+
+  .dropdown2{
+    cursor: pointer;
+    height: 45px;
+    width: 150px;
+    background-color: aliceblue;
+    position: relative;
+    display: inline-block;
+    margin-left: 2%;
+    border-radius: 12px;
+  }
+  .dropdown2:hover{
+    background-color: antiquewhite;
+  }
+  .dropdown3{
+    cursor: pointer;
+    height: 45px;
+    width: 150px;
+    background-color: aliceblue;
+    position: relative;
+    display: inline-block;
+    margin-left: 3%;
+    border-radius: 12px;
+  }
+  .dropdown3:hover{
+    background-color: antiquewhite; 
+  }
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+   width: 200px;
+  }
+  .dropdown .dropdown-content p:hover{
+    background-color: antiquewhite;
+  }
+
+  .dropdown:hover .dropdown-content{
+    background-color: black;
+    display: block;
+  }
+  .dropdown:hover{
+    background-color: antiquewhite;
+  }
+  .dropdown2:hover .dropdown-content{
+    background-color: black;
+    display: block;
+  }
+  .dropdown2 .dropdown-content p:hover{
+    background-color: antiquewhite;
+  }
+
+  .dropdown3:hover .dropdown-content{
+    background-color: black;
+    display: block;
+  }
+  .dropdown3 .dropdown-content p:hover{
+    background-color: antiquewhite;
+  }
+
+.fstcard{
+    height: 300px;
+    width: 20%;
+    background-color:whitesmoke;
+    border-radius: 12px;
+    display: inline-block;
+    margin: 20px;
+}
+.scndcard{
+    height: 300px;
+    width: 20%;
+    background-color:whitesmoke;
+    border-radius: 12px;
+    display: inline-block;
+    margin: 20px;
+}
+.thrdcard{
+    height: 300px;
+    width: 20%;
+    background-color:whitesmoke;
+    border-radius: 12px;
+    display: inline-block;
+    margin: 20px;
+}
+.fothcard{
+    height: 300px;
+    width: 20%;
+    background-color:whitesmoke;
+    border-radius: 12px;
+    display: inline-block;
+    margin: 20px;
+}
+.fthcard{
+    height: 300px;
+    width: 20%;
+    background-color:whitesmoke;
+    border-radius: 12px;
+    display: inline-block;
+    margin: 20px;
+}
+.fthcard video{
+    border-radius: 12px;
+}
+.sxthcard{
+    height: 300px;
+    width: 20%;
+    background-color:whitesmoke;
+    border-radius: 12px;
+    display: inline-block;
+    margin: 20px;
+}
+.svnthcard{
+    height: 300px;
+    width: 20%;
+    background-color:whitesmoke;
+    border-radius: 12px;
+    display: inline-block;
+    margin: 20px;
+}
+.eithcard{
+    height: 300px;
+    width: 20%;
+    background-color:whitesmoke;
+    border-radius: 12px;
+    display: inline-block;
+    margin: 20px;
+}
+.ninthcard{
+    height: 300px;
+    width: 20%;
+    background-color:whitesmoke;
+    border-radius: 12px;
+    display: inline-block;
+    margin: 20px;
+}
+.tenthcard{
+    height: 300px;
+    width: 20%;
+    background-color:whitesmoke;
+    border-radius: 12px;
+    display: inline-block;
+    margin: 20px;
+}
+.elvnthcard{
+    height: 300px;
+    width: 20%;
+    background-color:whitesmoke;
+    border-radius: 12px;
+    display: inline-block;
+    margin: 20px;
+}
+.card1 img{
+    
+        height: 150px;
+        width: 100%;
+        border-top-right-radius: 12px;
+        border-top-left-radius: 12px;
+}
+.controller{
+
+    background-image: url(images/bg.jpg);
+     padding-top: 80px;
+     text-align: center;
+}
+.card3 p{
+    font-size: 15px;
+    color: green;
+    text-align: center;
+}
+.footer{
+    height: 400px;
+    width: 100%;
+    background-color: darkgray;
+
+    text-align: center;
+}
+.thrdcard .card2 {
+    width: 100%;
+    font-size: 12px;
+    line-height: 18px;
+    color: #222;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.footer footer blockquote button:hover{
+    background-color: aquamarine;
+}
+.navbar .table table td button:hover{
+    background-color: aquamarine;  
+}
+.intro button:hover{
+    background-color: aquamarine;
+}
